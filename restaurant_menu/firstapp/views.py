@@ -10,4 +10,3 @@ class HelloNewYork(View):
     def get(self, request):
         return HttpResponse('Hello New York!')
 
-# 
